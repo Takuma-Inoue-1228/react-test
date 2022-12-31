@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p className=" text-3xl font-bold text-purple-600">
           Hello takuma
-        </p>
+              </p>
+              <p className='text-red-600'>reactの学習中です。</p>
       </header>
     </div>
   );
