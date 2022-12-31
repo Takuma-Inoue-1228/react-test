@@ -15,3 +15,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+h2{
+    text-align: center;
+    padding: 2em;
+    font-weight: bold;
+}
+
+a{
+    color: blue;
+    font-weight: bold;
+}
+
+li{
+    padding-left: 3em;
+}
