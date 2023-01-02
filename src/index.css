@@ -16,17 +16,17 @@ code {
     monospace;
 }
 
-h2{
-    text-align: center;
-    padding: 2em;
-    font-weight: bold;
+h2 {
+  text-align: center;
+  padding: 2em;
+  font-weight: bold;
 }
 
-a{
-    color: blue;
-    font-weight: bold;
+a {
+  color: blue;
+  font-weight: bold;
 }
 
-li{
-    padding-left: 3em;
+footer {
+  text-align: center;
 }

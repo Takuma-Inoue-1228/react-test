@@ -4,9 +4,9 @@ const Todo = () => {
   return (
     <>
       <h2>ToDo画面</h2>
-      <div>
-        <Link to={`/`}>トップ画面に戻る</Link>
-      </div>
+      <footer>
+        <Link to={"/"}>トップ画面に戻る</Link>
+      </footer>
     </>
   );
 };

@@ -5,9 +5,9 @@ const NotFound = () => {
     <>
       <h2>404 エラー</h2>
       <p>お探しのページは見つかりませんでした。</p>
-      <div>
-        <Link to={`/`}>トップに戻る</Link>
-      </div>
+      <footer>
+        <Link to={"/"}>トップに戻る</Link>
+      </footer>
     </>
   );
 };
